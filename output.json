@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Jones Baddie",
+    "email": "john@example.com",
+    "phone": "555-1234",
+    "email_valid": true,
+    "processed_at": "2026-03-09T11:02:15.424895"
+  },
+  {
+    "name": "Kart Angle",
+    "email": "jane@example.com",
+    "phone": "555-5678",
+    "email_valid": true,
+    "processed_at": "2026-03-09T11:02:15.424924"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "phone": "555-9999",
+    "email_valid": true,
+    "processed_at": "2026-03-09T11:02:15.424926"
+  },
+  {
+    "name": "John Smith",
+    "email": "john@example.com",
+    "phone": "555-1234",
+    "email_valid": true,
+    "processed_at": "2026-03-09T11:02:15.424928"
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "phone": "555-5678",
+    "email_valid": true,
+    "processed_at": "2026-03-09T11:02:15.424929"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "phone": "555-9999",
+    "email_valid": true,
+    "processed_at": "2026-03-09T11:02:15.424931"
+  }
+]

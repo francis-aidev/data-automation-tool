@@ -1,0 +1,3 @@
+# Optional
+# pandas==1.5.3
+# openpyxl==3.10.0 (for Excel files)
